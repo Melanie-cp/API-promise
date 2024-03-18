@@ -1,0 +1,7 @@
+#data-list {
+    list-style-type: decimal;
+}
+
+#data-list li {
+    text-transform: capitalize;
+}
